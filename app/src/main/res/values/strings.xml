@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserLocation</string>
+    <string name="get_location">Traccia posizione</string>
+    <string name="location_text">Premi il bottone per iniziare a tracciare la tua posizione</string>
+    <string name="loc_error">Errore durante la localizzazione del dispositivo!</string>
+    <string name="service_not_available">Servizio non disponibile!</string>
+    <string name="invalid_lat_long_used">Invalid coordinates!</string>
+    <string name="no_address_found">Nessun indirizzo valido trovato!</string>
+    <string name="address_text">"Indirizzo: %1$s \n Timestamp: %2$tr"</string>
+    <string name="loading">Caricamento..</string>
+    <string name="stop_tracking">Ferma il tracking</string>
+    <string name="android_image">Android Image</string>
+    <string name="web_view">Web View</string>
+
+</resources>
